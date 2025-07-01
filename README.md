@@ -1,6 +1,6 @@
 # Travel Guide
 The Travel Guide is an e-commerce travel website designed to simplify travel
-planning by providing users with detailed information on tourist destinations, hotel accommodations, cab services, and food ordering all in one service
+planning by providing users with detailed information on tourist destinations, hotel accommodations, cab services, and food ordering all in one platform.
 # Modules
 1. Customer Account module
 2. Tourism places
